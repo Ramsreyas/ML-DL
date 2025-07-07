@@ -6,8 +6,8 @@ It covers key concepts such as:
   1. Decision Trees
 
   2.Linear Regression
-  
-  3.Convolutional Neural Networks (CNNs)
+
+  3. Traditional Neural Nets
   
   4.Large Language Models (LLMs), along with Small Language Models (SLMs)
 
