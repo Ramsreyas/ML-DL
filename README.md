@@ -4,8 +4,11 @@ This repository contains all my Machine Learning (ML) and Deep Learning (DL) pro
 It covers key concepts such as:
   
   1. Decision Trees
+
   2.Linear Regression
+  
   3.Convolutional Neural Networks (CNNs)
+  
   4.Large Language Models (LLMs), along with Small Language Models (SLMs)
 
 These projects have helped me develop strong coding practices and gain in-depth knowledge of each topic.
