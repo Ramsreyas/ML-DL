@@ -3,7 +3,7 @@ This repository contains all my Machine Learning (ML) and Deep Learning (DL) pro
 
 It covers key concepts such as:
   
-  1. Decision Trees
+  1. Decision Tree 
 
   2.Linear Regression
 
