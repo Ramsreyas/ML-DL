@@ -5,7 +5,7 @@ It covers key concepts such as:
   
   1. Decision Tree 
 
-  2.Linear Regression
+   2.Linear Regression
 
   3. Traditional Neural Nets
   
